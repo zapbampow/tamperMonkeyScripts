@@ -23,7 +23,7 @@
     });
   };
 
-  const observer = new MutationObserver(removeShorts);
+  const observer = new MutationObserver(justShowVideos);
   observer.observe(document, {
     childList: true,
     subtree: true,
