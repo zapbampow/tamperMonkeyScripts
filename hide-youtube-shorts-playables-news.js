@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Remove YouTube Shorts, Playables, Breaking News
-// @namespace    https://github.com/zapbampow
+// @namespace    https://github.com/zapbampow/tamperMonkeyScripts
 // @version      0.1
 // @description  Removes YouTube Shorts, Breaking News, and YouTube Playables, leaving only real videos
 // @author       Clayton Ingalls
