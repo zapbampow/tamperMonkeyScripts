@@ -8,8 +8,7 @@
 // @match        https://*.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @grant        none
-
-// Credit where it is due: This is a broadening of hallzy's script at https://github.com/hallzy/remove-youtube-shorts/blob/master/remove-youtube-shorts.user.js
+// @resource note Credit where it is due: This is a broadening of hallzy's script at https://github.com/hallzy/remove-youtube-shorts/blob/master/remove-youtube-shorts.user.js
 
 // ==/UserScript==
 (() => {
